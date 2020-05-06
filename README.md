@@ -1,3 +1,3 @@
 # hello_world
-Mi primer repositorio con Git
+Segunda prueba
 Estoy haciendo un Branch del hello World de la guia básica de Git
